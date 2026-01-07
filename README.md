@@ -96,6 +96,6 @@ We welcome contributions from the community! Here's how you can contribute:
 
 ## 💬 Contact
 * Developer: [Omkar Kulkarni](https://github.com/omkarkulkarni2704)
-* Repository: [Novel Nest](https://github.com/omkarkulkarni2704/NovelNest)
+* Repository: [BookHub](https://github.com/omkarkulkarni2704/BookHub)
 
 ---
