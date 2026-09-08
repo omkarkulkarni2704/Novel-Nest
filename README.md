@@ -1,4 +1,4 @@
-# 📚 BookHub       
+# 📚 NovelNest       
            
 ### **An e-commerce platform for book enthusiasts, where every story finds its reader.**                                   
               
